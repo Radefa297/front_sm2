@@ -1,0 +1,73 @@
+{
+  "name": "sm2",
+  "version": "1.0.2",
+  "description": "sm2,sm3,cryptojs,crypto,base64,rsa,aes crypt",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "SM2",
+    "SM3",
+    "crypto",
+    "cryptography",
+    "Cipher",
+    "RSA",
+    "ECDSA",
+    "DSA",
+    "RSAPSS",
+    "PKCS#1",
+    "PKCS#5",
+    "PKCS#8",
+    "private key",
+    "public key",
+    "CSR",
+    "PKCS#10",
+    "hash function",
+    "HMac",
+    "ASN.1",
+    "certificate",
+    "X.509",
+    "CRL",
+    "OCSP",
+    "RFC 3161",
+    "Digital Timestamp",
+    "Timestamp",
+    "Time Stamp Token",
+    "CMS",
+    "Cryptgraphic Message Syntax",
+    "PKCS#7",
+    "Signature",
+    "Digital Signature",
+    "signing",
+    "Message Digest",
+    "JSON Web Token",
+    "JWT",
+    "JSON Web Signature",
+    "JWS",
+    "JSON Web Key",
+    "JWK",
+    "JOSE",
+    "JWA"
+  ],
+  "author": "zengxirou",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/lifesreason/SM2/issues"
+  },
+  "homepage": "https://github.com/lifesreason/SM2#readme",
+  "directories": {
+    "lib": "lib"
+  }
+}
